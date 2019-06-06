@@ -1,0 +1,15 @@
+{
+  "name": "hapi-on-nodechef-demo",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tarabyte/hapi-on-nodechef-demo.git",
+  "author": "Yury Tarabanko <tarabanko.yury@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
