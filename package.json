@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@hapi/hapi": "^18.3.1"
+    "@hapi/hapi": "^19.1.1"
   },
   "scripts": {
     "start": "node ."
